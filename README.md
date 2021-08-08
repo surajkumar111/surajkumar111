@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @surajkumar111
+- 👋 Hi, I’m Suraj Kumar
 - 👀 I’m interested in Android & Problem Solving
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on anything Android & ML
+- 💞️ I’m looking to collaborate on anything Android
 - 📫 Reach me at surajkumar@sharechat.co
 
 <!---
