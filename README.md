@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Suraj Kumar
-- 👀 I’m interested in Android & System Design
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on anything Android
-- 📫 Reach me at surajkumar@sharechat.co
+ <h1> Hey there! I'm Suraj Kumar <img src="https://github.com/hemantj99/hemantj99/blob/main/Hi.gif" width="25"></h1>
 
-<!---
-surajkumar111/surajkumar111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+[![Gmail Badge](https://img.shields.io/badge/suraj.kumar@sharechat.co-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:suraj.kumar@sharechat.co)
+[![Linkedin Badge](https://img.shields.io/badge/surajkr1399-30302F?style=flat&logo=linkedin)](https://linkedin.com/in/surajkr1399/)
+![](https://komarev.com/ghpvc/?username=SURAJ1399&label=PROFILE+VIEWS)
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+
+- 👨‍💻 Software Engineer 
+- 🎓 B.Tech from National Insitute of Technology.
+- 🌱 I’m currently learning Backend & System Design
+- 🔭 I’m up for help with anything android
