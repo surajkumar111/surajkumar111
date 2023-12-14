@@ -13,6 +13,5 @@
 
 - 👨‍💻 Software Engineer 
 - 🎓 B.Tech from National Insitute of Technology.
-- 🌱 I’m currently learning Backend & System Design
-- 🔭 I’m up for help with anything android
+- 🔭 I’m up for help with anything android & LLD
 - https://github.com/SURAJ1399
